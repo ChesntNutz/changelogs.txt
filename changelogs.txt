@@ -1,7 +1,8 @@
 ✨ +-- Major Update --+
 🌀 Added Vore Scene (Pred) 
+⚙️ Vore System Overhaul – new mechanics, visual improvements, and expanded interaction options
 
 🛠️ +-- Minor Updates --+
 🍰 Added Vanilla Scene (Osha)
-📖 Story Update – new dialogue, choices, and moments to discover
-🧪 New Systems Added! – fresh mechanics to explore and enjoy
+📖 Story Update – new dialogue, branches, and hidden lore
+🧪 New Gameplay Systems! – discover fresh mechanics that enrich your journey
